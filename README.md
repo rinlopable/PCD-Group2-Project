@@ -14,7 +14,7 @@ The system is designed to recommend inspections. It does not automatically deter
 
 ## Proposal
 
-[Read the full project proposal (PDF)](Digital Image Processing(PCD)_Proposal_Group2.pdf)
+[Read the full project proposal (PDF)](<Digital Image Processing(PCD)_Proposal_Group2.pdf>)
 
 ## Group Members
 
